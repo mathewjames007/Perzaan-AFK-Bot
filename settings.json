@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bedrockbuged.aternos.me",
-    "port": 17490,
+    "ip": "ohiobuged.aternos.me",
+    "port": 43801,
     "version": "1.21.1"
   },
   "position": {
