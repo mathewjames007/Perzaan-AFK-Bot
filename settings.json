@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bedrockbuged.aternos.me:17490",
+    "ip": "bedrockbuged.aternos.me",
     "port": 17490,
     "version": "1.21.1"
   },
